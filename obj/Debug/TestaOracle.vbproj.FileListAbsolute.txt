@@ -1,0 +1,17 @@
+C:\Users\igorr_000\source\repos\TestaOracle\bin\Debug\TestaOracle.exe.config
+C:\Users\igorr_000\source\repos\TestaOracle\bin\Debug\TestaOracle.exe
+C:\Users\igorr_000\source\repos\TestaOracle\bin\Debug\TestaOracle.pdb
+C:\Users\igorr_000\source\repos\TestaOracle\bin\Debug\TestaOracle.xml
+C:\Users\igorr_000\source\repos\TestaOracle\bin\Debug\Icraft.dll
+C:\Users\igorr_000\source\repos\TestaOracle\bin\Debug\Icraft.pdb
+C:\Users\igorr_000\source\repos\TestaOracle\bin\Debug\Icraft.xml
+C:\Users\igorr_000\source\repos\TestaOracle\bin\Debug\Icraft.dll.config
+C:\Users\igorr_000\source\repos\TestaOracle\obj\Debug\TestaOracle.vbprojAssemblyReference.cache
+C:\Users\igorr_000\source\repos\TestaOracle\obj\Debug\TestaOracle.frmTestaOracle.resources
+C:\Users\igorr_000\source\repos\TestaOracle\obj\Debug\TestaOracle.Resources.resources
+C:\Users\igorr_000\source\repos\TestaOracle\obj\Debug\TestaOracle.vbproj.GenerateResource.cache
+C:\Users\igorr_000\source\repos\TestaOracle\obj\Debug\TestaOracle.vbproj.CoreCompileInputs.cache
+C:\Users\igorr_000\source\repos\TestaOracle\obj\Debug\TestaOracle.vbproj.CopyComplete
+C:\Users\igorr_000\source\repos\TestaOracle\obj\Debug\TestaOracle.exe
+C:\Users\igorr_000\source\repos\TestaOracle\obj\Debug\TestaOracle.xml
+C:\Users\igorr_000\source\repos\TestaOracle\obj\Debug\TestaOracle.pdb
